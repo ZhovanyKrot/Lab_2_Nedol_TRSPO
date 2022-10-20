@@ -1,0 +1,15 @@
+D:\Git_Hub\Lab_2_Nedol_TRSPO\obj\Debug\net6.0\Lab_2_Nedol_TRSPO.csproj.AssemblyReference.cache
+D:\Git_Hub\Lab_2_Nedol_TRSPO\obj\Debug\net6.0\Lab_2_Nedol_TRSPO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Hub\Lab_2_Nedol_TRSPO\obj\Debug\net6.0\Lab_2_Nedol_TRSPO.AssemblyInfoInputs.cache
+D:\Git_Hub\Lab_2_Nedol_TRSPO\obj\Debug\net6.0\Lab_2_Nedol_TRSPO.AssemblyInfo.cs
+D:\Git_Hub\Lab_2_Nedol_TRSPO\obj\Debug\net6.0\Lab_2_Nedol_TRSPO.csproj.CoreCompileInputs.cache
+D:\Git_Hub\Lab_2_Nedol_TRSPO\bin\Debug\net6.0\Lab_2_Nedol_TRSPO.exe
+D:\Git_Hub\Lab_2_Nedol_TRSPO\bin\Debug\net6.0\Lab_2_Nedol_TRSPO.deps.json
+D:\Git_Hub\Lab_2_Nedol_TRSPO\bin\Debug\net6.0\Lab_2_Nedol_TRSPO.runtimeconfig.json
+D:\Git_Hub\Lab_2_Nedol_TRSPO\bin\Debug\net6.0\Lab_2_Nedol_TRSPO.dll
+D:\Git_Hub\Lab_2_Nedol_TRSPO\bin\Debug\net6.0\Lab_2_Nedol_TRSPO.pdb
+D:\Git_Hub\Lab_2_Nedol_TRSPO\obj\Debug\net6.0\Lab_2_Nedol_TRSPO.dll
+D:\Git_Hub\Lab_2_Nedol_TRSPO\obj\Debug\net6.0\refint\Lab_2_Nedol_TRSPO.dll
+D:\Git_Hub\Lab_2_Nedol_TRSPO\obj\Debug\net6.0\Lab_2_Nedol_TRSPO.pdb
+D:\Git_Hub\Lab_2_Nedol_TRSPO\obj\Debug\net6.0\Lab_2_Nedol_TRSPO.genruntimeconfig.cache
+D:\Git_Hub\Lab_2_Nedol_TRSPO\obj\Debug\net6.0\ref\Lab_2_Nedol_TRSPO.dll
